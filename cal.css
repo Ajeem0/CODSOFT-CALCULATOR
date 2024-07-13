@@ -37,9 +37,8 @@ input{
     display: flex;
     justify-content: space-around;
 }
-button{
-    
-height: 3rem;
+button{  
+    height: 3rem;
     width: 3rem;
     margin: 5px;
     border-radius: 50%;
@@ -47,7 +46,6 @@ height: 3rem;
     font-size: 1.3rem;
     border: none;
     transition: all 0.1s ease-in-out 0.1s;
-   
 }
 button:active{
     background-color: gray;
